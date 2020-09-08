@@ -1,3 +1,3 @@
 # Simulated-Company-Management-System
 <p>This is a course project, due to the possibility of plagiarism, I am not allowed to share my code in public. Hence only the test cases I wrote for the system is included.
-If you are a recruiter and want to see the main file, please email me at (owenheyu.wang@mail.utoronto.ca). I will send you the code immediately after the contact. </p>
+If you are a recruiter and want to see the main file, please email me at [](owenheyu.wang@mail.utoronto.ca). I will send you the code immediately after the contact. </p>
